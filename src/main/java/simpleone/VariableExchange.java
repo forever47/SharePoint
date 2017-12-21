@@ -1,6 +1,6 @@
 package simpleone;
 /**
- * ±äÁ¿Öµ½»»»
+ * å˜é‡å€¼äº¤æ¢
  * @author Administrator
  *
  */
